@@ -1,0 +1,14 @@
+# Ignora logs
+logs/*.txt
+
+# Ignora binários
+*.exe
+*.out
+*.bin
+
+# Ignora arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos Go de dependências
+go.sum
