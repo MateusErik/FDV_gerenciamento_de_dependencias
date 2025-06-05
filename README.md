@@ -1,1 +1,2 @@
 # FDV_gerenciamento_de_dependencias
+Projeto de gerenciamento de dependências em desenvolvimento
